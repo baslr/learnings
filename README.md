@@ -20,3 +20,8 @@
 * use branches
 * use sane commit messages
 * use tags to mark versions
+* debugability
+* use consistent wording
+* check your database configuration
+* close all ports via firewall
+* 
