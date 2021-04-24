@@ -17,3 +17,5 @@
 * have a backup
 * check that your request module reuses the connection
 * use a vpn
+* use branches
+* use sane commit messages
