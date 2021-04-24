@@ -19,3 +19,4 @@
 * use a vpn
 * use branches
 * use sane commit messages
+* use tags to mark versions
